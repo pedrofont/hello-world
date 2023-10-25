@@ -1,5 +1,3 @@
 # hello-world
-Random ideas from an amateur programmer~
 
-Born in Rio de Janeiro, Brazil, in 1999. 
-Currently residing in Brasília and working hard to get an undergrad degree in Economics.
+Hi! I'm Pedro. I'm a second year graduate student of Economics at FGV EPGE.
